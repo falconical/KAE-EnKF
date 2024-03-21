@@ -26,6 +26,17 @@ and then clicking on the notebook titled "KAE EnKF example".
 
 This notebook guides you through what an application of the KAE EnKF could look like on a simple synthetic dataset.
 
+## Reproducing graphs from the paper
+
+To most easily reproduce the graphs from the paper, relevant pickle files have been uploaded to git's large file storage (LFS). Hence to download these, run:
+
+```
+git lfs install
+git lfs pull
+```
+
+The scripts referring to different sections of the paper will now be fully runnable.
+
 Note: The pendulum scripts use video data from https://www.youtube.com/watch?v=MpzaCCbX-z4, which is not included in this repo.
 
 ## Authors and acknowledgment
