@@ -24,6 +24,8 @@ and then clicking on the notebook titled "KAE EnKF example".
 
 This notebook guides you through what an application of the KAE EnKF could look like on a simple synthetic dataset.
 
+Note: The pendulum scripts use video data from https://www.youtube.com/watch?v=MpzaCCbX-z4, which is not included in this repo.
+
 ## Authors and acknowledgment
 #### Authors:
 Stephen A Falconer, David J.B. Lloyd, and Naratip Santitissadeekorn
