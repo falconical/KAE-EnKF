@@ -1,5 +1,7 @@
 # KAE EnKF
 
+![](assets/KAE.png)
+
 Note: this repository is meant primarily as a code accompaniment to the paper introducing the KAE EnKF.
 
 ## Installation
